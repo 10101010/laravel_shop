@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#header {
+    height: 50px;
+    background-color: #000000;
+    color: #fff;
+    padding-left: 50px;
+}
+
+#content {
+    margin: 20px 0;
+    padding-left: 50px;
+}
+
+#footer {
+	padding-left: 50px;
+    height: 40px;
+    background-color: #000000;
+    color: #fff;
+}
+
+#comments {
+	padding-left: 50px;
+	padding-top: 20px;
+	list-style-type: none;
+}
+
+#comments-form {
+	padding-left: 50px;
+	padding-top: 20px;
+	list-style-type: none;
+}
+
+.header-title {
+	color: #ffffff;
+	text-decoration: none;
+}
