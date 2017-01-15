@@ -15,7 +15,7 @@
 <body>
 <nav class="navbar  navbar-default">
      <div class="container">
-          <p class="navbar-text">Магазин</p>
+          <a href="/" class="navbar-text">Магазин</a>
           <a href="/basket" class=" navbar-link navbar-text navbar-right"><span style="font-size:1.5em;" class="glyphicon glyphicon-shopping-cart basket"></span><span class="badge pull-right count_order">0</span></a>
      </div>
 </nav>
